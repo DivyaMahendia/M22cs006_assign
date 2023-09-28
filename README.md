@@ -18,9 +18,9 @@ Step 5: Building the Docker Image.
 Step 6: Running the Docker Container.
 
 
-![Alt text](<C:\Users\divya\OneDrive\Pictures\Screenshots.png>)
+![Alt text](<file:///C:/Users/divya/OneDrive/Pictures/Screenshots/Screenshot%202023-09-24%20163927.png>)
 
-![Alt text](<C:\Users\divya\OneDrive\Pictures\Screenshots.png>)
+
 
 
 
