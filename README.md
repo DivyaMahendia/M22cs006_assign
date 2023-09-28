@@ -18,18 +18,9 @@ Step 5: Building the Docker Image.
 Step 6: Running the Docker Container.
 
 
-![Alt text](<file:///C:/Users/divya/OneDrive/Pictures/Screenshots/Screenshot%202023-09-24%20163927.png>)
-
-![Alt text](<file:///C:/Users/divya/OneDrive/Pictures/Screenshots/Screenshot%202023-09-24%20163927.png>)
-
-
-
-
-
-
 <img width="960" alt="Screenshot 2023-09-24 170731" src="https://github.com/DivyaMahendia<img width="960" alt="Screenshot 2023-09-26 105045" src="https://github.com/DivyaMahendia/M22cs006_assign/assets/38568931/0a53c357-1747-47c9-900c-7fcdd0f3c794">
-/M22cs006_assign/assets/38568931/35ed7b67-2c53-40a1-92b9-ba7420f8615e">
+
 
 <img width="960" alt="Screenshot 2023-09-24 170158" src="https:<img width="960" alt="Screenshot 2023-09-24 170121" src="https://github.com/DivyaMahendia/M22cs006_assign/assets/38568931/98c2244c-0e6d-4982-802f-ea48bd114849">
-//github.com/DivyaMahendia/M22cs006_assign/assets/38568931/6a12cbff-020a-487d-ab76-b68343b552ef">
+
 <img width="960" alt="Screenshot 2023-09-24 163927" src="https://github.com/DivyaMahendia/M22cs006_assign/assets/38568931/68beccfc-bdd5-4b14-8fec-46d5edf9b319">
