@@ -20,6 +20,9 @@ Step 6: Running the Docker Container.
 
 ![Alt text](<C:\Users\divya\OneDrive\Pictures\Screenshots.png>)
 
+![Alt text](<C:\Users\divya\OneDrive\Pictures\Screenshots.png>)
+
+
 
 
 
