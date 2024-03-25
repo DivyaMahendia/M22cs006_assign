@@ -1,6 +1,6 @@
 # Docker Application Deployment
 
-Author: Divya Mahendia (M22CS006)
+Author: Divya Mahendia 
 
 Here I have tried to create a simple web application, that greets the user with, "Hi, Docker!"
 this is done in order to understand the concepts of Docker and containers.
